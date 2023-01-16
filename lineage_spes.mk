@@ -30,6 +30,9 @@ TARGET_EXCLUDES_AUDIOFX := true
 # Aperture Camera
 TARGET_BUILD_APERTURE_CAMERA := false
 
+# Face Unlock
+TARGET_FACE_UNLOCK_SUPPORTED := true
+
 # Product Specifics
 PRODUCT_NAME := lineage_spes
 PRODUCT_DEVICE := spes
